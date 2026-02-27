@@ -110,7 +110,7 @@ python security-compliance/aws_public_s3_detector.py
 python security-compliance/secrets_exposure_scanner.py ./src
 ```
 
-## 📚 Categories and Scripts
+##  Categories and Scripts
 
 ### 1. Cloud Cost Optimization
 
