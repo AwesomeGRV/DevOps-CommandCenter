@@ -1,12 +1,12 @@
-# Contributing to CloudOps-SRE-Toolkit
+# Contributing to DevOps-CommandCenter
 
-Thank you for your interest in contributing to the CloudOps-SRE-Toolkit! This document provides guidelines and information for contributors.
+Thank you for your interest in contributing to the DevOps-CommandCenter! This document provides guidelines and information for contributors.
 
-## 🤝 How to Contribute
+##  How to Contribute
 
 ### Reporting Issues
 
-- **Bug Reports**: Use the [issue tracker](https://github.com/your-org/CloudOps-SRE-Toolkit/issues) to report bugs
+- **Bug Reports**: Use the [issue tracker](https://github.com/your-org/DevOps-CommandCenter/issues) to report bugs
 - **Feature Requests**: Open an issue with the "enhancement" label
 - **Security Issues**: Please report security vulnerabilities privately to security@example.com
 
@@ -20,7 +20,7 @@ Thank you for your interest in contributing to the CloudOps-SRE-Toolkit! This do
 6. **Ensure all tests pass**: `make test`
 7. **Submit a pull request**
 
-## 📋 Development Guidelines
+##  Development Guidelines
 
 ### Code Standards
 
@@ -154,7 +154,7 @@ main() {
 main "$@"
 ```
 
-## 🧪 Testing
+## Testing
 
 ### Test Structure
 ```
@@ -218,7 +218,7 @@ make test-unit
 make test-integration
 ```
 
-## 📝 Documentation
+##  Documentation
 
 ### Code Documentation
 - Add docstrings to all public functions and classes
@@ -237,7 +237,7 @@ make test-integration
 - Include configuration examples
 - Document error codes and messages
 
-## 🔒 Security Considerations
+##  Security Considerations
 
 ### Credential Management
 - Never commit credentials to version control
@@ -257,7 +257,7 @@ make test-integration
 - Review dependencies for known issues
 - Validate authentication and authorization
 
-## 🚀 Release Process
+##  Release Process
 
 ### Version Management
 - Use semantic versioning (MAJOR.MINOR.PATCH)
@@ -280,7 +280,7 @@ make test-integration
 - Update documentation website
 - Announce in community channels
 
-## 📊 Code Review Process
+##  Code Review Process
 
 ### Pull Request Guidelines
 - Provide clear description of changes
@@ -303,7 +303,7 @@ make test-integration
 - Ensure backward compatibility
 - Check for potential security issues
 
-## 🏷️ Labeling and Tagging
+##  Labeling and Tagging
 
 ### Issue Labels
 - `bug`: Bug reports
@@ -320,7 +320,7 @@ make test-integration
 - `do not merge`: Not ready for merge
 - `automated`: Automated changes
 
-## 🌍 Community Guidelines
+##  Community Guidelines
 
 ### Code of Conduct
 - Be respectful and inclusive
@@ -340,7 +340,7 @@ make test-integration
 - Ask questions in appropriate channels
 - Be patient with responses
 
-## 🎯 Contribution Ideas
+##  Contribution Ideas
 
 ### High Priority
 - [ ] Add support for additional cloud providers
@@ -360,7 +360,7 @@ make test-integration
 - [ ] Implement advanced analytics
 - [ ] Add gamification features
 
-## 📧 Getting Started
+##  Getting Started
 
 1. **Set up development environment**: `make dev-setup`
 2. **Read the documentation**: Check the `docs/` directory
@@ -368,7 +368,7 @@ make test-integration
 4. **Ask questions**: Join our Discord community
 5. **Start contributing**: Make your first pull request!
 
-## 🙏 Recognition
+##  Recognition
 
 Contributors will be recognized in:
 - README.md contributors section
@@ -376,4 +376,4 @@ Contributors will be recognized in:
 - Annual contributor awards
 - Community highlights
 
-Thank you for contributing to CloudOps-SRE-Toolkit! 🚀
+Thank you for contributing to DevOps-CommandCenter! 🚀

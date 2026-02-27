@@ -1,4 +1,4 @@
-# CloudOps-SRE-Toolkit
+# DevOps-CommandCenter
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -9,7 +9,7 @@
 
 ## Project Vision
 
-The CloudOps-SRE-Toolkit provides practical, real-world scripts used by cloud operations and site reliability engineering teams to manage, monitor, and optimize cloud infrastructure. This toolkit focuses on automation, observability, security, and reliability across multiple cloud providers.
+The DevOps-CommandCenter provides practical, real-world scripts used by cloud operations and site reliability engineering teams to manage, monitor, and optimize cloud infrastructure. This toolkit focuses on automation, observability, security, and reliability across multiple cloud providers.
 
 ## Who This Is For
 
@@ -22,7 +22,7 @@ The CloudOps-SRE-Toolkit provides practical, real-world scripts used by cloud op
 ## Repository Structure
 
 ```
-CloudOps-SRE-Toolkit/
+DevOps-CommandCenter/
 ├── cloud-cost-optimization/     # Cost management and optimization
 ├── kubernetes-containers/       # Kubernetes and container management
 ├── monitoring-observability/     # Monitoring and observability tools
@@ -49,8 +49,8 @@ CloudOps-SRE-Toolkit/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-org/CloudOps-SRE-Toolkit.git
-   cd CloudOps-SRE-Toolkit
+   git clone https://github.com/your-org/DevOps-CommandCenter.git
+   cd DevOps-CommandCenter
    ```
 
 2. **Install Python dependencies:**
@@ -308,9 +308,9 @@ Scripts generate comprehensive reports including:
 ## Support
 
 - Check the [Documentation](docs/)
-- Search [Issues](https://github.com/your-org/CloudOps-SRE-Toolkit/issues)
+- Search [Issues](https://github.com/your-org/DevOps-CommandCenter/issues)
 - Join our [Discord Community](https://discord.gg/cloudops-sre)
-- Email: cloudops-sre-toolkit@example.com
+- Email: devops-commandcenter@example.com
 
 ## License
 
@@ -325,10 +325,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Badges
 
-![GitHub stars](https://img.shields.io/github/stars/your-org/CloudOps-SRE-Toolkit?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-org/CloudOps-SRE-Toolkit?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-org/CloudOps-SRE-Toolkit)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-org/CloudOps-SRE-Toolkit)
+![GitHub stars](https://img.shields.io/github/stars/your-org/DevOps-CommandCenter?style=social)
+![GitHub forks](https://img.shields.io/github/forks/your-org/DevOps-CommandCenter?style=social)
+![GitHub issues](https://img.shields.io/github/issues/your-org/DevOps-CommandCenter)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/your-org/DevOps-CommandCenter)
 
 ---
 
