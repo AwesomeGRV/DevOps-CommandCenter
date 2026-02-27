@@ -1,11 +1,11 @@
-# CloudOps-SRE-Toolkit Makefile
+# DevOps-CommandCenter Makefile
 # Provides convenient commands for development, testing, and deployment
 
 .PHONY: help install test lint format clean docs docker build run
 
 # Default target
 help:
-	@echo "CloudOps-SRE-Toolkit - Available Commands:"
+	@echo "DevOps-CommandCenter - Available Commands:"
 	@echo ""
 	@echo "Setup and Installation:"
 	@echo "  install     Install Python dependencies"
