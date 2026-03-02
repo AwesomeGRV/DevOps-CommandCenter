@@ -120,6 +120,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `aws_idle_ec2_detection.sh` | Find idle EC2 instances | Bash |
 | `monthly_cost_comparison.py` | Compare monthly costs across providers | Python |
 | `resource_tagging_compliance.py` | Check resource tagging compliance | Python |
+| `rightsizing_recommendations.py` | Analyze resource utilization and provide rightsizing recommendations | Python |
 
 ### 2. Kubernetes & Containers
 
@@ -130,6 +131,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `resource_quota_checker.sh` | Check resource quotas | Bash |
 | `unused_images_detector.py` | Find unused container images | Python |
 | `node_health_check.sh` | Comprehensive node health check | Bash |
+| `resource_usage_analyzer.py` | Analyze Kubernetes resource usage patterns and provide optimization recommendations | Python |
 
 ### 3. Monitoring & Observability
 
@@ -140,6 +142,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `log_error_rate_analyzer.py` | Analyze log error rates | Python |
 | `synthetic_monitoring.py` | Synthetic monitoring for services | Python |
 | `sla_slo_calculator.py` | Calculate SLA/SLO compliance | Python |
+| `log_anomaly_detector.py` | Detect anomalies in log patterns and alert on unusual activity | Python |
 
 ### 4. Security & Compliance
 
@@ -150,6 +153,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `secrets_exposure_scanner.py` | Scan for exposed secrets | Python |
 | `ssl_cert_expiry_checker.py` | Check SSL certificate expiry | Python |
 | `iam_risky_policy_detector.py` | Detect risky IAM policies | Python |
+| `vulnerability_scanner.py` | Comprehensive vulnerability scanning for systems and applications | Python |
 
 ### 5. CI/CD Utilities
 
@@ -159,6 +163,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `branch_naming_validator.py` | Validate branch naming conventions | Python |
 | `docker_image_cleanup.py` | Clean up unused Docker images | Python |
 | `artifact_retention_cleaner.py` | Clean old build artifacts | Bash |
+| `deployment_validator.py` | Validate deployments before production release | Python |
 
 ### 6. Incident & Reliability
 
@@ -168,6 +173,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `error_budget_calculator.py` | Calculate error budgets | Python |
 | `deployment_frequency_tracker.py` | Track deployment frequency | Python |
 | `incident_summary_generator.py` | Generate incident summaries | Python |
+| `service_dependency_mapper.py` | Map and analyze service dependencies for impact analysis | Python |
 
 ## Configuration
 
