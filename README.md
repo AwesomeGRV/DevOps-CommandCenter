@@ -121,6 +121,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `monthly_cost_comparison.py` | Compare monthly costs across providers | Python |
 | `resource_tagging_compliance.py` | Check resource tagging compliance | Python |
 | `rightsizing_recommendations.py` | Analyze resource utilization and provide rightsizing recommendations | Python |
+| `spot_instance_optimizer.py` | Optimize spot instance usage for cost savings with reliability considerations | Python |
 
 ### 2. Kubernetes & Containers
 
@@ -132,6 +133,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `unused_images_detector.py` | Find unused container images | Python |
 | `node_health_check.sh` | Comprehensive node health check | Bash |
 | `resource_usage_analyzer.py` | Analyze Kubernetes resource usage patterns and provide optimization recommendations | Python |
+| `network_policy_analyzer.py` | Analyze Kubernetes network policies and security posture | Python |
 
 ### 3. Monitoring & Observability
 
@@ -143,6 +145,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `synthetic_monitoring.py` | Synthetic monitoring for services | Python |
 | `sla_slo_calculator.py` | Calculate SLA/SLO compliance | Python |
 | `log_anomaly_detector.py` | Detect anomalies in log patterns and alert on unusual activity | Python |
+| `metrics_collector.py` | Collect and aggregate metrics from various sources for monitoring | Python |
 
 ### 4. Security & Compliance
 
@@ -154,6 +157,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `ssl_cert_expiry_checker.py` | Check SSL certificate expiry | Python |
 | `iam_risky_policy_detector.py` | Detect risky IAM policies | Python |
 | `vulnerability_scanner.py` | Comprehensive vulnerability scanning for systems and applications | Python |
+| `compliance_audit_checker.py` | Perform comprehensive compliance audits across various standards | Python |
 
 ### 5. CI/CD Utilities
 
@@ -164,6 +168,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `docker_image_cleanup.py` | Clean up unused Docker images | Python |
 | `artifact_retention_cleaner.py` | Clean old build artifacts | Bash |
 | `deployment_validator.py` | Validate deployments before production release | Python |
+| `automated_testing_runner.py` | Comprehensive automated testing framework for CI/CD pipelines | Python |
 
 ### 6. Incident & Reliability
 
@@ -174,6 +179,7 @@ python security-compliance/secrets_exposure_scanner.py ./src
 | `deployment_frequency_tracker.py` | Track deployment frequency | Python |
 | `incident_summary_generator.py` | Generate incident summaries | Python |
 | `service_dependency_mapper.py` | Map and analyze service dependencies for impact analysis | Python |
+| `chaos_engineering_runner.py` | Execute chaos engineering experiments to test system resilience | Python |
 
 ## Configuration
 
